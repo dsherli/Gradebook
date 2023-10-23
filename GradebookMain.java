@@ -7,7 +7,7 @@ import java.io.*;
  * @author Dillon Sherling
  * 10/16/23
  */
-public class PA2Main {
+public class GradebookMain {
     private static final DecimalFormat decForm = new DecimalFormat("0.00"); // to make sure final grade decimals aren't too long
 
     /**
